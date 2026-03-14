@@ -1,0 +1,62 @@
+body{
+
+font-family: Arial;
+background-color:#f4f4f4;
+margin:40px;
+
+}
+
+
+nav{
+
+margin-bottom:20px;
+
+}
+
+
+nav a{
+
+margin-right:20px;
+text-decoration:none;
+color:darkblue;
+font-weight:bold;
+
+}
+
+
+h1{
+
+color:darkred;
+
+}
+
+
+table{
+
+border-collapse:collapse;
+width:60%;
+
+}
+
+
+th, td{
+
+border:1px solid black;
+padding:10px;
+text-align:left;
+
+}
+
+
+th{
+
+background-color:#ddd;
+
+}
+
+
+img{
+
+border:3px solid black;
+
+}
